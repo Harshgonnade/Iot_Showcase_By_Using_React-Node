@@ -1,0 +1,143 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    margin-bottom: 8px;
+}
+
+/* Home Section */
+#home{
+    height: 280px;
+    padding: 3px 28px;
+}
+#home::before{
+    height: 370px;
+    
+}
+
+#home p{
+    font-size: 13px;
+}
+
+/* Service section */
+#services{
+    flex-direction: column;
+}
+#services .box{
+    padding: 15px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+}
+
+/* Clients Section */
+#clients{
+    flex-wrap: wrap;
+}
+#clients img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+/* Service section */
+#services1{
+    flex-direction: column;
+}
+#services1 .box{
+    padding: 15px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+}
+
+/* Clients Section */
+#clients{
+    flex-wrap: wrap;
+}
+#clients img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+/* Service section */
+#services2{
+    flex-direction: column;
+}
+#services2 .box{
+    padding: 15px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+}
+
+/* Clients Section */
+#clients{
+    flex-wrap: wrap;
+}
+#clients img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+/* Service section */
+#services3{
+    flex-direction: column;
+}
+#services3 .box{
+    padding: 15px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+}
+
+/* Clients Section */
+#clients{
+    flex-wrap: wrap;
+}
+#clients img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+/* Clients Section */
+#clients1{
+    flex-wrap: wrap;
+}
+#clients1 img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+/* Clients Section */
+#clients2{
+    flex-wrap: wrap;
+}
+#clients2 img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+/* Clients Section */
+#clients3{
+    flex-wrap: wrap;
+}
+#clients3 img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+
+/* Contact Section */
+    #contact-box form{
+        width: 80%;
+    }
+/* Footer Section */
+
+/* Utility classes */
+.h-primary{
+    font-size: 26px;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
